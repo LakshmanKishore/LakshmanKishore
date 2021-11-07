@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshman</h1>
 <h3 align="center">I'm Passionate about Web Development and Machine Learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmankishore&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmankishore" /> </p>
-
 <h1> About Me </h1>
   
 - 🔭 I’m currently working on My Portfolio, ML Projects.
