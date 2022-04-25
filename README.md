@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning.**
 
-- 👨‍💻 All of my projects are available at [Projects](https://lakshman.tech/projects)
+- 👨‍💻 All of my projects are available at [Projects](https://lakshman.vercel.app/projects)
 
 - 💬 Ask me about **Web Development, Machine Learning.**
 
