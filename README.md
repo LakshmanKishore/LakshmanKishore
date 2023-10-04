@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lakshman</h1>
 <h3 align="center">I am a software engineer with a passion for learning, innovation, and open source.</h3>
 
+<img align="center" src="https://raw.githubusercontent.com/LakshmanKishore/mywebsite/6b6195c5a0ef1f12d6d85cd2f120712aefb6758c/public/customhero.png" style="height:1.5rem, width:3rem">
+
 - 🌱 I’m currently learning **AI related stuff.**
 - 💬 Ask me about **Software Engineering, Data science, AI.**
 
