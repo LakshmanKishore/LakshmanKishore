@@ -14,13 +14,13 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://www.sololearn.com/profile/15282029" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/sololearn/eee/fff" alt="lakshman17" height="40" width="40"></a> 
- <a href="https://codepen.io/Lakshman17"> <img src="https://cdn.simpleicons.org/codepen/eee/fff" alt="Python" height="40" width="40"></a>
- <a href="https://www.codewars.com/users/Lakshman321" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/codewars/eee/fff" alt="lakshman17" height="40" width="40"></a> 
- <a href="https://kaggle.com/lakshman17" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/kaggle/eee/fff" alt="lakshman17" height="40" width="40"></a> 
- <a href="https://linkedin.com/in/lakshman-kishore-s-v-43a980224" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.simpleicons.org/linkedin/eee/fff" alt="Python" height="40" width="40"></a>
- <a href="mailto:lakshmankishore17@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/eee/fff" alt="Python" height="40" width="40"></a>
- <a href="https://twitter.com/Lakshman_2001" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/x/eee/fff" alt="Lakshman_2001" height="40" width="40"></a> 
+ <a href="https://www.sololearn.com/profile/15282029" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/sololearn/000/fff" alt="lakshman17" height="40" width="40"></a> 
+ <a href="https://codepen.io/Lakshman17"><img src="https://cdn.simpleicons.org/codepen/000/fff" alt="Python" height="40" width="40"></a>
+ <a href="https://www.codewars.com/users/Lakshman321" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/codewars/000/fff" alt="lakshman17" height="40" width="40"></a> 
+ <a href="https://kaggle.com/lakshman17" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/kaggle/000/fff" alt="lakshman17" height="40" width="40"></a> 
+ <a href="https://linkedin.com/in/lakshman-kishore-s-v-43a980224" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/linkedin/000/fff" alt="Python" height="40" width="40"></a>
+ <a href="mailto:lakshmankishore17@gmail.com"><img src="https://cdn.simpleicons.org/gmail/000/fff" alt="Python" height="40" width="40"></a>
+ <a href="https://twitter.com/Lakshman_2001" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/x/000/fff" alt="Lakshman_2001" height="40" width="40"></a> 
 </p>
 
 
