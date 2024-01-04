@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lakshman</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=235&lines=Hi+%F0%9F%91%8B%2C+I'm+Lakshman" alt="Typing SVG" /></a></h1>
 <h3 align="center">I am a software engineer with a passion for learning, innovation, and open source.</h3>
 
 <img align="center" src="https://raw.githubusercontent.com/LakshmanKishore/mywebsite/6b6195c5a0ef1f12d6d85cd2f120712aefb6758c/public/customhero.png" style="height:1.5rem, width:3rem">
