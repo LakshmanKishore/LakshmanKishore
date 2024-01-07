@@ -3,12 +3,12 @@
 
 <img align="center" src="https://raw.githubusercontent.com/LakshmanKishore/mywebsite/6b6195c5a0ef1f12d6d85cd2f120712aefb6758c/public/customhero.png" style="height:1.5rem, width:3rem">
 
-- 🌱 I’m currently learning **AI related stuff.**
-- 💬 Ask me about **Software Engineering, Data science, AI.**
-- ❤️ I love contributing to open source projects, and I'm currently exploring opportunities to contribute to the SHAP library.
-- 🚀 Currently diving into the SHAP library codebase, understanding the intricacies, and looking for ways to make meaningful contributions.
-- 👨‍💻 All of my projects are available at **[here](https://lakshman.vercel.app/projects)**.
-- ⚡ Fun fact **I'm a passionate Insect photographer.**
+- 🌱 I’m currently learning **AI-related topics.**
+- 💬 Ask me about **Software Engineering, Data Science, and AI.**
+- ❤️ I have a keen interest in open-source contributions. Whenever I come across mistakes or improvements in the documentation of open-source tools, I actively contribute by creating issues or pull requests.
+- 🚀 Currently diving into the SHAP library codebase, deciphering its intricacies, and finding ways to make meaningful contributions. Excited to be a part of enhancing SHAP's capabilities.
+- 👨‍💻 You can find my projects **[here](https://lakshman.vercel.app/projects)**.
+- ⚡ Fun fact: **I'm a passionate insect photographer.**
 
 
 ## ✉️ Find me on:
