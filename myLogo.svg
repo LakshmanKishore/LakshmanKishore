@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="280" height="200" style="background-color:transparent">
-  <circle cx="95" cy="150" r="4" fill="#008eff" />
-  <circle cx="125" cy="150" r="4" fill="#008eff" />
+<svg width="280" height="200" style="background-color:transparent">
+  <circle cx="95" cy="150" r="4" fill="#007bff" />
+  <circle cx="125" cy="150" r="4" fill="#007bff" />
   <polyline points="95,150 80,150 80,20 110,60 110,180 225,180 200,150 125,150"
-style="fill:none;stroke:#008eff;stroke-width:8" />
+style="fill:none;stroke:#007bff;stroke-width:8" />
+  <circle cx="85" cy="35" r="3" fill="#007bff" />
+  <circle cx="215" cy="175" r="3" fill="#007bff" />
 </svg>
