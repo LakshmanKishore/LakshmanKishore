@@ -20,7 +20,8 @@
  <a href="https://kaggle.com/lakshman17" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/kaggle/000/fff" alt="lakshman17" height="40" width="40"></a> 
  <a href="https://linkedin.com/in/lakshman-kishore-s-v-43a980224" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/linkedin/000/fff" alt="Python" height="40" width="40"></a>
  <a href="mailto:lakshmankishore17@gmail.com"><img src="https://cdn.simpleicons.org/gmail/000/fff" alt="Python" height="40" width="40"></a>
- <a href="https://twitter.com/Lakshman_2001" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/x/000/fff" alt="Lakshman_2001" height="40" width="40"></a> 
+ <a href="https://twitter.com/Lakshman007bff" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/x/000/fff" alt="Lakshman007bff" height="40" width="40"></a> 
+ <a href="https://lakshman007bff.hashnode.dev" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/hashnode/000/fff" alt="Lakshman007bff" height="40" width="40"></a> 
 </p>
 
 
