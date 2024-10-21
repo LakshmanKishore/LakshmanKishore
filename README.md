@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **AI-related topics.**
 - 💬 Ask me about **Software Engineering, Data Science, and AI.**
-- ❤️ I have a keen interest in open-source contributions. Whenever I come across mistakes or improvements in the documentation of open-source tools, I actively contribute by creating issues or pull requests.
-- 🚀 Currently diving into the SHAP library codebase, deciphering its intricacies, and finding ways to make meaningful contributions. Excited to be a part of enhancing SHAP's capabilities.
 - 👨‍💻 You can find my projects **[here](https://lakshman.vercel.app/projects)**.
 - ⚡ Fun fact: **I'm a passionate insect photographer.**
 
